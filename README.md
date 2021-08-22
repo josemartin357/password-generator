@@ -1,6 +1,6 @@
 # password-generator
 ###Link for deployed site: https://josemartin357.github.io/password-generator/
-###Link for github page: https://josemartin357.github.io/martin-bedoya-portfolio/
+###Link for github page: hhttps://github.com/josemartin357/password-generator
 
 DESCRIPTION: Web program to generate a random password following user characters' criteria they have selected. App runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code.
 Password selections include: number of characters (between 8 and 128), lower case letters, upper case letters, numbers and symbols.
